@@ -1,6 +1,9 @@
 # python-checkpoint-config
 Python Scripts to interact with the Checkpoint R80 API
 
+This is a work in progress, so use it at your own risk
+spelling is always optional
+
 The idea here is develope a set of scripts to provide functions for a user to be able to configure Firewall Rules and other parts of Checkpoints security policies.
 
 The Checkpoint API in R80 still has a number of items you can't manipulate yet (Cluster Objects, Users...).
